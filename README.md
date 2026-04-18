@@ -88,9 +88,9 @@ Tenho experiência prática com **análise exploratória, validação de dados, 
 
 <div align="center">
 
-![Nicoli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
+![Nicoli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicoliFelip&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoliFelip&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
