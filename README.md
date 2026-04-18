@@ -70,50 +70,6 @@ Tenho experiência prática com **análise exploratória, validação de dados, 
 
 ---
 
-## 📌 Featured Research
-
-> **🔬 Artificial Intelligence in the Context of Industry 5.0**  
-> *FATEC · Undergraduate Research Fellow · 6 months · On-site*
-
-Condução de projeto de iniciação científica investigando os impactos da Inteligência Artificial em ambientes corporativos e acadêmicos dentro do paradigma da Indústria 5.0 — explorando a transição da automação para a colaboração humano-máquina, e suas implicações para governança de dados, inteligência organizacional e implantação ética de IA.
-
----
-
-## 💼 Experience
-
-```
-📂 experience/
-├── 🔵 fenix-systems/
-│   └── Operations Intern            [Current · Remote]
-│       ├── QA testing & environment validation
-│       ├── SQL data manipulation (operational + analytical)
-│       ├── Database consistency checks
-│       └── KPI monitoring & report preparation
-│
-├── 🟣 quipe-ai/
-│   └── Data Intern                  [3 months · Remote · Startup]
-│       ├── AI solutions testing & evaluation
-│       ├── Prompt engineering & output optimization
-│       ├── AI-powered front-end dev via API integration
-│       └── Web data collection for AI knowledge bases
-│
-├── 🟢 grace-icmc-usp/
-│   └── Mentor · Technovation Girls  [4 months · Remote]
-│       ├── Mentored students across Brazil
-│       └── Guided AI & mobile app projects (international competition)
-│
-├── 🟡 ufabc/
-│   ├── Python Course Monitor        [1 month · On-site]
-│   └── STEM Outreach · Coletivo Mirtha Lina
-│       └── Encouraged girls to pursue STEM careers
-│
-└── 🔘 senai/
-    ├── Undergraduate Research Fellow [6 months]
-    └── Student Athletics Assoc. & Class Rep [Ongoing]
-```
-
----
-
 ## 🎓 Education
 
 | Degree | Institution | Hours | Period |
