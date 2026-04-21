@@ -94,7 +94,7 @@ I have hands-on experience with **exploratory analytics, data validation, Python
 
 <div align="center">
 
-Se você trabalha com dados, pesquisa ou iniciativas de impacto em tecnologia — adoro trocar ideia!
+I really enjoy talking about new projects, technological advancements, the future, and innovation!
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicoli-felipe/)
 [![Email](https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolifelipe01@gmail.com)
