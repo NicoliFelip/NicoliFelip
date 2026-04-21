@@ -26,7 +26,7 @@
 ```python
 # nicoli_felipe.py
 
-class Nicoli:
+class Nic:
     focus     = "Data Science · Business Intelligence · AI Research"
     location  = "São Paulo, Brasil 🇧🇷"
     learning  = ["Statistical Modeling", "Machine Learning", "MLOps"]
@@ -39,9 +39,7 @@ class Nicoli:
 ## 🧠 About Me
 
 Interessada pela interseção entre **dados, inteligência artificial e estratégia de negócios**.
-Atualmente cursando dupla graduação em Ciência de Dados (SENAI) e Tecnologia em Informática para Negócios (FATEC), com foco em construir uma base sólida que cobre toda a pipeline de dados — da coleta ao insight acionável.
-
-Tenho experiência prática com **análise exploratória, validação de dados, SQL, Power BI e engenharia de prompts para IA**, além de interesse ativo em pesquisa aplicada e iniciativas de impacto social em STEM.
+Tenho experiência prática com **análise exploratória, validação de dados, Python, SQL, Power BI e engenharia de prompts para IA**, além de interesse ativo em pesquisa aplicada e iniciativas de impacto social em STEM.
 
 > *"Transforming raw data into decisions."*
 
