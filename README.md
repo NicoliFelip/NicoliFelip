@@ -26,7 +26,7 @@
 ```python
 # nicoli_felipe.py
 
-class NicoliSilva:
+class Nicoli:
     focus     = "Data Science · Business Intelligence · AI Research"
     location  = "São Paulo, Brasil 🇧🇷"
     learning  = ["Statistical Modeling", "Machine Learning", "MLOps"]
@@ -38,7 +38,7 @@ class NicoliSilva:
 
 ## 🧠 About Me
 
-Apaixonada pela interseção entre **dados, inteligência artificial e estratégia de negócios**.
+Interessada pela interseção entre **dados, inteligência artificial e estratégia de negócios**.
 Atualmente cursando dupla graduação em Ciência de Dados (SENAI) e Tecnologia em Informática para Negócios (FATEC), com foco em construir uma base sólida que cobre toda a pipeline de dados — da coleta ao insight acionável.
 
 Tenho experiência prática com **análise exploratória, validação de dados, SQL, Power BI e engenharia de prompts para IA**, além de interesse ativo em pesquisa aplicada e iniciativas de impacto social em STEM.
@@ -78,11 +78,7 @@ Tenho experiência prática com **análise exploratória, validação de dados, 
 | Associate Degree in **Business IT** | FATEC | 2,800h | 2025 – 2028 |
 | Technical Program in **Administration** | ETEC | 1,200h | 2023 – 2024 |
 
-**Complementary Courses**
 
-`Python · 80h` `Power BI · 20h` `Excel · 160h` `HR Assistant · 160h` `Quality Tools · 40h` `Advanced Programming · 15h` `Computer Skills · 80h`
-
----
 
 ## 📊 GitHub Stats
 
