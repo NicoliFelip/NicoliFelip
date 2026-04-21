@@ -19,9 +19,8 @@
 
 class Nic:
     focus     = "Data Science · Business Intelligence · AI Research"
-    location  = "São Paulo, Brasil 🇧🇷"
     learning  = ["Statistical Modeling", "Machine Learning", "MLOps"]
-    languages = {"Python": "🔥", "SQL": "⚡", "Portuguese": "native"}
+    languages = {"Python": "🔥", "SQL": "⚡"}
     open_to   = ["internships", "research collaborations", "data projects"]
 ```
 
@@ -29,8 +28,8 @@ class Nic:
 
 ## 🧠 About Me
 
-Interessada pela interseção entre **dados, inteligência artificial e estratégia de negócios**.
-Tenho experiência prática com **análise exploratória, validação de dados, Python, SQL, Power BI e engenharia de prompts para IA**, além de interesse ativo em pesquisa aplicada e iniciativas de impacto social em STEM.
+Interested in the intersection between **data, artificial intelligence, and business strategy**.
+I have hands-on experience with **exploratory analytics, data validation, Python, SQL, Power BI, and AI prompt engineering**, as well as an active interest in applied research and social impact initiatives in STEM.
 
 > *"Transforming raw data into decisions."*
 
